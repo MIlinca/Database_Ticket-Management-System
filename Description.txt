@@ -1,0 +1,2 @@
+The project "Ticket Management System" focuses on the development of a ticket management system in the form of a web API, to provide users with the opportunity to search and purchase tickets for existing events in the platform, using various selection criteria.
+In the first step, the database was built and configured. It stored essential event information such as name, description, date, category, price, total number of seats, location and images. The database ensured data persistence and served as a source of information for the entire system.
